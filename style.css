@@ -72,7 +72,7 @@ h1 span{
 
 .third-section{
     margin-bottom: 80px;
-    display:flex;
+    display:inline-block;
 }
 
 #img-left{
@@ -94,11 +94,12 @@ p{
 
 }
 footer{
-display: flex;
+display: inline-block;
 min-height: 100px;
 width: 100%;
 background-color: black;
 }
 .last-section{
     color: white;
+    text-align: center;
 }
