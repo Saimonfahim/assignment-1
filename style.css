@@ -1,0 +1,104 @@
+body{
+    font-family: 'Poppins', sans-serif;
+    margin: 0;
+}
+
+.first-section{
+    display: flex;
+    margin-left: 40px;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+
+h1{
+    font-size: 40px;   
+}
+
+
+.half-width{
+    width:40%;
+    float: left;
+    margin-left: 5%;
+    padding-left: 2%;
+}
+
+.half-width img{
+    width:70%;
+}
+h1 span{
+    color: orange;
+}
+
+.link-button{
+    text-decoration: none;
+    background: orange;
+    padding: 10px 40px;
+    border-radius: 5px;
+    color: white;
+    font-weight: 700;
+}
+.vl{
+    border-left: 3px solid orange;
+    height: 140px;
+    position: relative;
+}
+
+.second-section{
+
+    margin-bottom: 20px;
+}
+.my-mission{
+    display: flex;
+    margin-left: 40px;
+    margin-top: 20px;
+    margin-bottom: 80px;
+}
+
+.mission-section{
+    background-color: palegreen;
+    height: 450px;
+  border: 15px solid palegreen;
+  margin-left: 5%;
+  padding-left: 2%;
+  width: 280px;
+  border-radius: 5px;
+}
+
+.illustrator{
+    height: 150px;
+    width: 150px;
+
+}
+
+.third-section{
+    margin-bottom: 80px;
+    display:flex;
+}
+
+#img-left{
+    padding-left:50px;
+}
+
+#div-left{
+    position:absolute; 
+    left: 450px; 
+}
+
+p{
+    margin-bottom: 30px;
+}
+
+.fourth-section{
+        margin-bottom: 80px;
+        
+
+}
+footer{
+display: flex;
+min-height: 100px;
+width: 100%;
+background-color: black;
+}
+.last-section{
+    color: white;
+}
